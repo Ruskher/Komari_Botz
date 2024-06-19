@@ -1,10 +1,8 @@
 <a name="readme-top"></a>
+JOIN WITH MY COMUNNITY 
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://chat.whatsapp.com/C1LbTu4n8lX30WOsdH32ff)
+
 <br />
 <div align="center">
   <a href="https://github.com/DitzOfc-Expertise/Komari_Botz">
