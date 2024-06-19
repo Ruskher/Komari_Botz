@@ -1,4 +1,4 @@
-*Done Forget To Give This Repo Stars!*
+*don't forget to give this repository stars!*
 
 <a name="readme-top"></a>
 
