@@ -27,7 +27,7 @@
   },
   "bugs": {
     "url": "https://github.com/DitzOfc-Expertise/Komari_Botz/issues"
-  }
+  },
   "license": "MIT",
   "dependencies": {
     "@bochilteam/scraper": "^4.2.4",
