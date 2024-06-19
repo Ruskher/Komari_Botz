@@ -57,8 +57,6 @@ fs.watchFile(file_exif, () => {
 
 // Document
 global.minety = pickRandom(['application/msword', 'application/vnd.ms-excel', 'application/vnd.ms-powerpoint', 'application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'])
-global.kiku = 'application/vnd.android.package-archive'
-
 // Database
 global.atlaapi= '8Zv6ptlT6VAyLTi0MXBgDr4gQgweeC7X1mZWcFuyFSQteGJ8GHuH8eS71BDhHc8iGZ7S8bBIBTi8v8oMzKnQrzhAdkpHirYEGcVg'
 global.version = '5.0.3'
@@ -79,9 +77,9 @@ global.nomorbot = '-'
 global.nomorown = '6285717062467'
 
 // Panel
-global.domain = 'https://diitzofc.pannelfast.my.id' // Domain Web
-global.apikey = 'ptla_3ke2dRCHaZhJJnyF2137pIRrWLpyEjuVLYnceKbJAWZ' // Key PTLA
-global.c_apikey = 'ptlc_ntwfIx3AAi9LHd7mFW4DP6N2ZEh0hr6uWoeqr65MpaU' // Key PTLC
+global.domain = '' // Domain Web
+global.apikey = '' // Key PTLA
+global.c_apikey = '' // Key PTLC
 global.eggs = '15'
 global.locs = '1'
 // Sosial Media
@@ -91,7 +89,7 @@ global.sgh = '-'
 global.sgc = 'https://chat.whatsapp.com/CfoZa7yhouZ51XXYM3lKY7'
 global.swa = 'https://wa.me/6285717062467'
 global.swb = '-' // Link Discord
-global.snh = 'https://nhentai.net/g/365296/' // Link nhentai
+global.snh = '' // Link nhentai
 
 // Pembayaran
 global.pdana = '~Not Found~'
