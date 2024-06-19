@@ -70,7 +70,6 @@ global.thumb = 'https://telegra.ph/file/cc3f75f0666f503d367a3.jpg'
 global.docthumb = 'https://telegra.ph/file/7ca545ade6f60b4a4a771.jpg'
 global.footer = 'Powered By _*Dev. Expertise*_'
 
-global.qris = 'https://telegra.ph/file/bcb93fafb22f139ff1512.jpg'
 global.email = 'AditGantengJir@gmail.com'
 global.creator = "6285717062467@s.whatsapp.net"
 global.nomorbot = '-'
