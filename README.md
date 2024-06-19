@@ -18,7 +18,7 @@
 <a href="https://github.com/DitzOfc-Expertise/Komari_Botz/issues"><img src="https://img.shields.io/github/issues/DitzOfc-Expertise/Komari_Botz"></a>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
-JOIN WITH MY COMUNNITY FOR MORE INFORMATION UPDATE
+JOIN WITH MY CHANNEL FOR MORE INFORMATION UPDATE
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://whatsapp.com/channel/0029VaYyCtsHltYBaNA0DQ36)
 
