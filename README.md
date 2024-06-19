@@ -81,6 +81,8 @@ node index.js
 | -------- | --------- |
 | Jadi Bot         | :white_check_mark: |
 | RPG                 | :white_check_mark: |
+| Multi Prefix | :white_check_mark: |
+| Support Run Termux | :white_check_mark: |
 | Function Send Button                  | :white_check_mark: |
 | Downloader                 | :white_check_mark: | 
 | AI                | :white_check_mark: |
