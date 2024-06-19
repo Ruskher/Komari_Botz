@@ -1,7 +1,4 @@
 <a name="readme-top"></a>
-JOIN WITH MY COMUNNITY 
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://chat.whatsapp.com/C1LbTu4n8lX30WOsdH32ff)
 
 <br />
 <div align="center">
@@ -12,7 +9,11 @@ JOIN WITH MY COMUNNITY
     Created By DitzOfc
  <p/>
 </div>
-    
+
+JOIN WITH MY COMUNNITY 
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://chat.whatsapp.com/C1LbTu4n8lX30WOsdH32ff)
+
 ### About
 This bot was created by DitzOfc, a beginner programmer. This bot was created with the aim of making everyday activities easier, I am very grateful And can't forget the support you have given me all this time
  
