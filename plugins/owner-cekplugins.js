@@ -44,6 +44,7 @@ ${readMore}
 handler.help = ['plugins'].map(v => v + ' *<teks>*');
 handler.tags = ['owner'];
 handler.command = /^plugins$/i;
+handler.owner = true
 module.exports = handler;
 
 const more = String.fromCharCode(8206);
