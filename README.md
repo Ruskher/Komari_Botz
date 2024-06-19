@@ -10,9 +10,17 @@
  <p/>
 </div>
 
-JOIN WITH MY COMUNNITY 
+<img src="https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges"/>
+<a href="https://github.com/DitzOfc-Expertise/Komari_Botz"><img src="https://img.shields.io/github/watchers/DitzOfc-Expertise/Komari_Botz.svg"</a>
+<a href="https://github.com/DitzOfc-Expertise/Komari_Botz"><img src="https://img.shields.io/github/stars/DitzOfc-Expertise/Komari_Botz.svg"</a>
+<a href="https://github.com/DitzOfc-Expertise/Komari_Botz"><img src="https://img.shields.io/github/forks/DitzOfc-Expertise/Komari_Botz.svg"</a>
+<a href="https://github.com/DitzOfc-Expertise/Komari_Botz"><img src="https://img.shields.io/github/repo-size/DitzOfc-Expertise/Komari_Botz.svg"></a>
+<a href="https://github.com/DitzOfc-Expertise/Komari_Botz/issues"><img src="https://img.shields.io/github/issues/DitzOfc-Expertise/Komari_Botz"></a>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png"/>
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://chat.whatsapp.com/C1LbTu4n8lX30WOsdH32ff)
+JOIN WITH MY COMUNNITY FOR MORE INFORMATION UPDATE
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat)](https://whatsapp.com/channel/0029VaYyCtsHltYBaNA0DQ36)
 
 ### About
 This bot was created by DitzOfc, a beginner programmer. This bot was created with the aim of making everyday activities easier, I am very grateful And can't forget the support you have given me all this time
