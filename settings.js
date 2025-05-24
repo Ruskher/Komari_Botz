@@ -4,12 +4,12 @@ let moment = require('moment-timezone')
 
 // Owner
 global.owner = [
-  ['6285717062467'],
-  ['6285717062467'],
-  ['6285717062467', 'DitzOfc', 'contact@tenka.my.id', true]
+  ['6283890107168'],
+  ['6285950285917'],
+  ['6283890107168', 'BoT Gantenf', 'contact@tenka.my.id', true]
 ] // Put your number here
-global.mods = ['6285891267541'] // Moderator
-global.prems = ['6285717062467'] // Premium
+global.mods = ['6283890107168'] // Moderator
+global.prems = ['6285950285917'] // Premium
 global.rose = 'YqzaFbPLBTCgEmCyqUHysLw9pRUw12CCELJxw6N7viYc1c3VDxk31iIGoomCzK0Z';
 global.lolkey = 'pentilkuda';
 global.neo = 'DitzOfc';
